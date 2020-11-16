@@ -1,11 +1,13 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/awwong1/github-stats)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/awwong1/github-stats">
    
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/awwong1/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/awwong1/github-stats/blob/master/generated/languages.svg)
 
 </a>
+
+**This is a fork of Jacob Strieb's Github Statistics library: [jstrieb/github-stats](https://github.com/jstrieb/github-stats)!**
 
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
